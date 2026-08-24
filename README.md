@@ -6,6 +6,5 @@ Meu primeiro projeto utilizando React e TypeScript: uma calculadora científica 
   <img src="[https://github.com/user-attachments/assets/986c9f7a-816d-4fb7-af9d-9df38b889c5d]" width="500">
 </p>
 
-![Calculadora](https://github.com/user-attachments/assets/986c9f7a-816d-4fb7-af9d-9df38b889c5d)
 
 https://github.com/user-attachments/assets/986c9f7a-816d-4fb7-af9d-9df38b889c5d
