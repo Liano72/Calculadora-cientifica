@@ -3,4 +3,4 @@
 Meu primeiro projeto utilizando React e TypeScript: uma calculadora científica responsiva, desenvolvida para funcionar tanto através dos botões da interface quanto pelo teclado. O projeto foi desenvolvido com o objetivo de praticar e aprimorar meus conhecimentos em React, TypeScript, JavaScript e CSS.
 
 
-![Demonstração da calculadora](./CalculadoraCientifica.gif.mp4)
+![Demonstração da calculadora](./public/CalculadoraCientifica.gif.mp4)
